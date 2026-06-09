@@ -61,17 +61,13 @@ Paquetes:
 
 shiny
 shinydashboard
-DT
 readxl
 readr
 dplyr
 ggplot2
 plotly
-randomForest
-rpart
 cluster
-factoextra
-caret
+
 
 ## Instalación
 
@@ -80,17 +76,11 @@ Ejecutar:
 install.packages(c(
 "shiny",
 "shinydashboard",
-"DT",
 "readxl",
 "readr",
 "dplyr",
 "ggplot2",
-"plotly",
-"randomForest",
-"rpart",
-"cluster",
-"factoextra",
-"caret"
+"cluster"
 ))
 
 ## Ejecución
