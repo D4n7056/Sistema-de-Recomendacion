@@ -25,8 +25,6 @@ Después genera un ranking de modelos:
 
 ## Arquitectura
 
-ML_Advisor/
-
 app.R
     Punto de entrada de Shiny
 
